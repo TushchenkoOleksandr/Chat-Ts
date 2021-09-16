@@ -1,0 +1,1 @@
+export const horisontalLine: string = "hr"
